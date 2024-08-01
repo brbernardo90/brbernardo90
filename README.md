@@ -10,18 +10,8 @@ Currently working as a **Machine Learning Researcher** at [H.IAAC](https://hiaac
 -  **Transformer/Large Language Models (LLMs)**, **Generative Adversarial Networks (GANs)** and **Variational Autoencoder (VAEs)**.
 - See my last publication: [brbernardo90.github.io/bpsdth](https://brbernardo90.github.io/bpsdth/)
 
-Don't hesitate sending me an email: [brbernardo90@gmail.com](mailto:brbernardo90@gmail.com)
-
-🌱 **My Academic and Professional Journey**
-
-- Earned my **Bachelor’s degree in Computer Science** from **UFSCAR**.
-- Enhanced my skills in software testing and automation as a **Test Software Engineer** at **Sofist**, and later, in quality assurance at **Diebold Nixdorf**.
-- Developed full-stack applications using **Ruby on Rails**, **PostgreSQL**, and **Vue.js** as a **Full Stack Developer** at **Caiena**.
-- Recently completed a **Master's degree in Electrical and Computer Engineering** at **UNICAMP**, specializing in **Artificial Intelligence/Machine Learning**.
-- Currently working as a **Machine Learning Researcher** at [H.IAAC](https://hiaac.unicamp.br/).
+Don't hesitate sending me an email: [contact@brayanbernardo.dev](mailto:contact@brayanbernardo.dev)
 
 ### Connect with me:
-
-
 
 [![Linkedin: brayanbernardo](https://img.shields.io/badge/-brayanbernardo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brayan-bernardo/)](https://www.linkedin.com/in/brayan-bernardo/)
