@@ -6,9 +6,7 @@ I'm a curious software engineer with a background in **Machine Learning Research
 
 Currently working as a **Machine Learning Researcher** at [H.IAAC](https://hiaac.unicamp.br/) , where I work with **Generative AI** models, synthesizing realistic and expressive virtual avatars driven by speech and text inputs. I'm also recently finished my master's degree on the same topic at Recod.ai @ Unicamp ([#5 LatAm](https://www.topuniversities.com/universities/universidade-estadual-de-campinas-unicamp)).
 
--  **PyTorch**, **Docker**  
--  **Transformer/Large Language Models (LLMs)**, **Generative Adversarial Networks (GANs)** and **Variational Autoencoder (VAEs)**.
-- See my last publication: [brbernardo90.github.io/bpsdth](https://brbernardo90.github.io/bpsdth/)
+See my last publication: [brbernardo90.github.io/bpsdth](https://brbernardo90.github.io/bpsdth/)
 
 Don't hesitate sending me an email: [contact@brayanbernardo.dev](mailto:contact@brayanbernardo.dev)
 
